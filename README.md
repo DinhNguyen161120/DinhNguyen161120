@@ -21,7 +21,6 @@
 <img src="https://img.shields.io/badge/Next.js-black?logo=next.js&logoColor=white"/>
 <img src="https://img.shields.io/badge/FastAPI-009485.svg?logo=fastapi&logoColor=white"/>
 <img src="https://img.shields.io/badge/Tailwind%20CSS-%2338B2AC.svg?logo=tailwind-css&logoColor=white"/>
-Materia UI
 
 ## Databases
 
@@ -38,3 +37,7 @@ Materia UI
 
 <p align="left">
 <img src="https://img.shields.io/badge/Vercel-%23000000.svg?logo=vercel&logoColor=white"/>
+
+## Toeic Certificate
+
+<p><img align="left" src="https://tran-thai-request-dinhnd.vercel.app/images/illustrations/auth/v2-login-dark-border.png" alt="Toeic Certificate" /></p>
