@@ -2,7 +2,6 @@
 
 ## Summary
 
-- 🔭 I’m currently working on [TS68 Company](https://ts68.vn/)
 - 🌱 I’m currently learning **English, Golang, Java, and Backend technologies...**
 - ⚡ Fun fact: **I like listening to music and jogging**
 
@@ -38,6 +37,6 @@
 <p align="left">
 <img src="https://img.shields.io/badge/Vercel-%23000000.svg?logo=vercel&logoColor=white"/>
 
-## Toeic Certificate
+<!-- ## Toeic Certificate
 
-<p><img align="left" src="https://public-source.vercel.app/images/toeic-certificate.jpg" alt="Toeic Certificate" /></p>
+<p><img align="left" src="https://public-source.vercel.app/images/toeic-certificate.jpg" alt="Toeic Certificate" /></p> -->
